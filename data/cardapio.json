@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nome": "Bowl de Salmão e Gergelim",
+    "restaurante": "Poke & Co",
+    "categoria": "Saudável",
+    "preco": 42.0,
+    "descricao": "Poke de salmão fresco, arroz japonês, edamame, abacate e molho tarê.",
+    "tags": ["saudaveis", "peixe", "sem lactose", "leve"]
+  },
+  {
+    "id": 2,
+    "nome": "Smash Burger Duplo com Bacon",
+    "restaurante": "Burger Artisan",
+    "categoria": "Hambúrguer",
+    "preco": 35.0,
+    "descricao": "Dois hambúrgueres smash de 90g, queijo cheddar fatiado, bacon crocante e maionese da casa no pão brioche.",
+    "tags": ["fast food", "carne", "calórico", "noite"]
+  },
+  {
+    "id": 3,
+    "nome": "Sopa de Lentilha e Cogumelos",
+    "restaurante": "Verde Sabores",
+    "categoria": "Vegana",
+    "preco": 28.0,
+    "descricao": "Sopa reconfortante de lentilhas com cogumelos Paris, cenoura e especiarias. Acompanha torradas de fermentação natural.",
+    "tags": ["vegana", "vegetariano", "sopa", "frio", "leve", "econômico"]
+  },
+  {
+    "id": 4,
+    "nome": "Pizza Margherita Artesanal",
+    "restaurante": "Bella Napoli",
+    "categoria": "Italiana",
+    "preco": 48.0,
+    "descricao": "Molho de tomate italiano, muçarela de búfala fresca e manjericão no pão de longa fermentação.",
+    "tags": ["massa", "queijo", "noite", "vegetariano"]
+  }
+]
